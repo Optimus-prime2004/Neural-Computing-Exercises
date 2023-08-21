@@ -1,1 +1,1 @@
-# Neural-network-exercises
+# Neural-Computing-Exercises
